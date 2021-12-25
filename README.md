@@ -16,9 +16,9 @@ Please use the flasher by pvvx: - [TelinkMiFlasher.html](https://pvvx.github.io/
 * Periodic screen change is disabled.
 * With unselecting the Clock ckeckbox and sending the config, the main screen will be active again.
 
-|[Xiaomi Mijia (LYWSD03MMC)](https://pvvx.github.io/ATC_MiThermometer) |
+|[Xiaomi Mijia (LYWSD03MMC)](https://pvvx.github.io/ATC_MiThermometer) 
 
-|  <img src="https://tasmota.github.io/docs/_media/bluetooth/LYWSD03MMC.png" alt="Xiaomi Mijia (LYWSD03MMC)" width="160"/> |  
+  <img src="https://tasmota.github.io/docs/_media/bluetooth/LYWSD03MMC.png" alt="Xiaomi Mijia (LYWSD03MMC)" width="160"/> 
 
 **The modified image:** ATC_Clock_or_Temp_35.bin
 
