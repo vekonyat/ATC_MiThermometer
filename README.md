@@ -1,7 +1,7 @@
 # Xiaomi Mijia (LYWSD03MMC HW: [B1.4](https://github.com/pvvx/ATC_MiThermometer/tree/master/BoardPinout), [B1.6](https://github.com/pvvx/ATC_MiThermometer/issues/125), [B1.7](https://github.com/pvvx/ATC_MiThermometer/issues/145), [B1.9](https://github.com/pvvx/ATC_MiThermometer/issues/125)) & Xiaomi Miaomiaoce ([MHO-C401](https://pvvx.github.io/MHO_C401)) & [CGG1](https://pvvx.github.io/CGG1) Mijia Bluetooth Thermometer Firmware
 
 This repository contains custom firmware for several Bluetooth Thermometer & Hygrometer devices.
-_
+
 The custom firmware can be flashed _via a modern browser_ and _over-the-air (OTA)_ without opening the device and unlocks several customization options. You can go back to the original firmware at any time. OTA and configuration main page - [TelinkMiFlasher.html](https://pvvx.github.io/ATC_MiThermometer/TelinkMiFlasher.html).
 
 **Key features**
