@@ -1,7 +1,7 @@
 # Xiaomi Mijia (LYWSD03MMC HW: [B1.4](https://github.com/pvvx/ATC_MiThermometer/tree/master/BoardPinout), [B1.6](https://github.com/pvvx/ATC_MiThermometer/issues/125), [B1.7](https://github.com/pvvx/ATC_MiThermometer/issues/145), [B1.9](https://github.com/pvvx/ATC_MiThermometer/issues/125)) & Xiaomi Miaomiaoce ([MHO-C401](https://pvvx.github.io/MHO_C401)) & [CGG1](https://pvvx.github.io/CGG1) Mijia Bluetooth Thermometer Firmware
 
 This repository contains custom firmware for several Bluetooth Thermometer & Hygrometer devices.
-
+_
 The custom firmware can be flashed _via a modern browser_ and _over-the-air (OTA)_ without opening the device and unlocks several customization options. You can go back to the original firmware at any time. OTA and configuration main page - [TelinkMiFlasher.html](https://pvvx.github.io/ATC_MiThermometer/TelinkMiFlasher.html).
 
 **Key features**
@@ -75,7 +75,7 @@ After you have flashed the firmware, the device has changed it's bluetooth name 
 
 | Option | Description |
 | ------ | ----------- |
-| _Temperature and Humidity offset_ | Enter a value to correct the offset of the Temperature or Humidity displayed: For example `-1.4` will decrease the Temperature by 1.4�
+| _Temperature and Humidity offset_ | Enter a value to correct the offset of the Temperature or Humidity displayed: For example `-1.4` will decrease the Temperature by 1.4째
 | _Smiley or Comfort_ | Choose a static smiley or check the "Comfort" Radio box to change the smiley depending on current Temperature and Humidity. |
 | _Comfort Parameters_ | Defines the Lower (Lo) and Upper (Hi) Range for Temperature and Humidity interpreted as comfort zone. In the default configuration a smiley will appear.
 | _Advertising Type_ | Type of supported [Bluetooth Advertising Formats](#bluetooth-advertising-formats).
@@ -297,8 +297,8 @@ For CGG1 - GPIO_PD3, MHO_C401 - no free pins.
 
 
 #### Chipset LYWSD03MMC HW:B1.4
-> * TLSR8251F512ET24 (TLSR8258 in 24-pin TQFN). SoC: TC32 32-bit MCU 48Mhz, 64 KiB SRAM, 512 KiB Flash (GD25LE40C), Bluetooth 5.0: Mesh, 6LoWPAN, Zigbee, RF4CE, HomeKit, Long Range, Operating temperature: -40캜 to +85캜, Power supply: 1.8V to 3.6V.
-> * SHTV3 sensor. Measurement range: Temperature -40캜 to +125캜, Humidity 0 to 100 %RH. Power supply: 1.8V to 3.6V
+> * TLSR8251F512ET24 (TLSR8258 in 24-pin TQFN). SoC: TC32 32-bit MCU 48Mhz, 64 KiB SRAM, 512 KiB Flash (GD25LE40C), Bluetooth 5.0: Mesh, 6LoWPAN, Zigbee, RF4CE, HomeKit, Long Range, Operating temperature: -40째C to +85째C, Power supply: 1.8V to 3.6V.
+> * SHTV3 sensor. Measurement range: Temperature -40째C to +125째C, Humidity 0 to 100 %RH. Power supply: 1.8V to 3.6V
 > * IST3055NA0 LCD controller 
 
 [LYWSD03MMC B1.4 BoardPinout](https://github.com/pvvx/ATC_MiThermometer/blob/master/BoardPinout)
