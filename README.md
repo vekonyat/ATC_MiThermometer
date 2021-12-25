@@ -13,7 +13,7 @@ Please use the flasher by pvvx: - [TelinkMiFlasher.html](https://pvvx.github.io/
 **Modification**
 
 * After flashing the modified firmware, if the clock checkbox is selected, and the config is sent with the 'Send config' button, only clock will be shown on the screen.
-* Changing screen is disabled.
+* Periodic screen change is disabled.
 * With unselecting the Clock ckeckbox and sending the config, the main screen will be active again.
 
 |[Xiaomi Mijia (LYWSD03MMC)](https://pvvx.github.io/ATC_MiThermometer) |
