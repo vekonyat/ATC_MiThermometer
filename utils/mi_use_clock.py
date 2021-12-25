@@ -1,7 +1,6 @@
 """
 Support for Xiaomi Mijia Bluetooth Termometer.
-Sends zero time to Lywsd003MMC 
-It works as a stopwatch
+Turns on clock mode only without web flasher frin Linux
 """
 import logging
 import sys
@@ -16,7 +15,7 @@ import signal
 import os
 import pexpect
 
-DEVICE = "A4:C1:38:31:35:83"   # address of your device
+DEVICE = "xx:xx:xx:xx:xx:xx"   # address of your device
 
 # Run gatttool interactively.
 child = pexpect.spawn("gatttool -I") # pexpect and gatttool should be installed
