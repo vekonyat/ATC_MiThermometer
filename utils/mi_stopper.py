@@ -1,7 +1,7 @@
 """
 Support for Xiaomi Mijia Bluetooth Termometer.
 Sends zero time to Lywsd003MMC 
-It works as a stopwatch
+It works as a stopwatch 
 """
 import logging
 import sys
