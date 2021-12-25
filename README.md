@@ -6,6 +6,8 @@
 
 This fork contains modification of the custom firmware by pvvx for LYWSD03MMC Bluetooth Thermometer & Hygrometer device.
 
+The lcd.c file is modified. The source code containes this modified file.
+
 
 Please use the flasher by pvvx: - [TelinkMiFlasher.html](https://pvvx.github.io/ATC_MiThermometer/TelinkMiFlasher.html).
 
