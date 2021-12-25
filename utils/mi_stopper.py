@@ -20,7 +20,7 @@ DEVICE = "xx:xx:xx:xx:xx:xx"   # MAC address of your device
 
 #date_num = int(sys.argv[1])  #If script is called with time data
 
-date_num = 35 # If script is called wi
+date_num = 35 # set zero time
 
 print(date_num) # just for debug
 print(hex(date_num)) # just for debug 
