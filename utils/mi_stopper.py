@@ -49,7 +49,7 @@ while True:
 
 command = "char-write-req 2d 23" + '{:02x}'.format(date_num & 0xFF) + '{:02x}'.format(date_num >> 8 & 0xFF) \
    + '{:02x}'.format(date_num >> 16 & 0xFF) + '{:02x}'.format(date_num >> 24 & 0xFF)  # writes time to device
-#command = "char-write-req 2d 22" + '{:02x}'.format(deg_num & 0xFF) + '{:02x}'.format(deg_num >> 8 & 0xFF) + "0000D002A0" # would send external data to device
+
 print(command)
 child.sendline(command)
 child.expect("Characteristic value was written successfully", timeout=10)
