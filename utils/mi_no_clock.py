@@ -1,7 +1,6 @@
 """
 Support for Xiaomi Mijia Bluetooth Termometer.
-Sends zero time to Lywsd003MMC 
-It works as a stopwatch
+Turn off clock mode without web flasher in Linux
 """
 import logging
 import sys
