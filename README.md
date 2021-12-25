@@ -17,7 +17,7 @@ Please use the flasher by pvvx: - [TelinkMiFlasher.html](https://pvvx.github.io/
 
 |  <img src="https://tasmota.github.io/docs/_media/bluetooth/LYWSD03MMC.png" alt="Xiaomi Mijia (LYWSD03MMC)" width="160"/> |  
 
-**The modified image:**
+**The modified image:** ATC_Clock_or_Temp_35.bin
 
 [LYWSD03MMC Modified Custom Firmware Version 3.5](https://github.com/vekonyat/ATC_MiThermometer/raw/master/ATC_Clock_or_Temp_35.bin) (HW: B1.4, B1.6, B1.7, B1.9)
 
