@@ -15,7 +15,7 @@ import signal
 import os
 import pexpect
 
-DEVICE = "A4:C1:38:31:35:83"   # address of your device
+DEVICE = "xx:xx:xx:xx:xx:xx"   # MAC address of your device
 #reading in degree from 1st argument
 
 date_num = int(time.time()+3605) #current time
