@@ -1,8 +1,10 @@
+# For testing only!
+
 # Small modification of code for Xiaomi Mijia (LYWSD03MMC HW: [B1.4](https://github.com/pvvx/ATC_MiThermometer/tree/master/BoardPinout), [B1.6](https://github.com/pvvx/ATC_MiThermometer/issues/125), [B1.7](https://github.com/pvvx/ATC_MiThermometer/issues/145), [B1.9](https://github.com/pvvx/ATC_MiThermometer/issues/125))
 
 
 
-This repository contains modification of the custom firmware by pvvx for LYWSD03MMC Bluetooth Thermometer & Hygrometer device.
+This fork contains modification of the custom firmware by pvvx for LYWSD03MMC Bluetooth Thermometer & Hygrometer device.
 
 
 Please use the flasher by pvvx: - [TelinkMiFlasher.html](https://pvvx.github.io/ATC_MiThermometer/TelinkMiFlasher.html).
